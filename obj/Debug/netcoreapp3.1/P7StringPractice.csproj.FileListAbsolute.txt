@@ -1,0 +1,13 @@
+D:\programacion 1\P7StringPractice\P7StringPractice\bin\Debug\netcoreapp3.1\P7StringPractice.exe
+D:\programacion 1\P7StringPractice\P7StringPractice\bin\Debug\netcoreapp3.1\P7StringPractice.deps.json
+D:\programacion 1\P7StringPractice\P7StringPractice\bin\Debug\netcoreapp3.1\P7StringPractice.runtimeconfig.json
+D:\programacion 1\P7StringPractice\P7StringPractice\bin\Debug\netcoreapp3.1\P7StringPractice.runtimeconfig.dev.json
+D:\programacion 1\P7StringPractice\P7StringPractice\bin\Debug\netcoreapp3.1\P7StringPractice.dll
+D:\programacion 1\P7StringPractice\P7StringPractice\bin\Debug\netcoreapp3.1\P7StringPractice.pdb
+D:\programacion 1\P7StringPractice\P7StringPractice\obj\Debug\netcoreapp3.1\P7StringPractice.csprojAssemblyReference.cache
+D:\programacion 1\P7StringPractice\P7StringPractice\obj\Debug\netcoreapp3.1\P7StringPractice.AssemblyInfoInputs.cache
+D:\programacion 1\P7StringPractice\P7StringPractice\obj\Debug\netcoreapp3.1\P7StringPractice.AssemblyInfo.cs
+D:\programacion 1\P7StringPractice\P7StringPractice\obj\Debug\netcoreapp3.1\P7StringPractice.csproj.CoreCompileInputs.cache
+D:\programacion 1\P7StringPractice\P7StringPractice\obj\Debug\netcoreapp3.1\P7StringPractice.dll
+D:\programacion 1\P7StringPractice\P7StringPractice\obj\Debug\netcoreapp3.1\P7StringPractice.pdb
+D:\programacion 1\P7StringPractice\P7StringPractice\obj\Debug\netcoreapp3.1\P7StringPractice.genruntimeconfig.cache
